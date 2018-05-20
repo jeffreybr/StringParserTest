@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringParserTest", "StringParserTest\StringParserTest.csproj", "{C663303A-CBD3-427B-B0F8-D5D8FE68BD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringParserTest.Tests", "StringParserTest.Tests\StringParserTest.Tests.csproj", "{84966001-DF67-4C9E-8425-851356A22292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C663303A-CBD3-427B-B0F8-D5D8FE68BD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C663303A-CBD3-427B-B0F8-D5D8FE68BD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C663303A-CBD3-427B-B0F8-D5D8FE68BD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C663303A-CBD3-427B-B0F8-D5D8FE68BD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84966001-DF67-4C9E-8425-851356A22292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84966001-DF67-4C9E-8425-851356A22292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84966001-DF67-4C9E-8425-851356A22292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84966001-DF67-4C9E-8425-851356A22292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55276888-27FE-46F2-A0D3-510773F435EE}
+	EndGlobalSection
+EndGlobal
